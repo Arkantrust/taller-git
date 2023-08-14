@@ -7,3 +7,10 @@ Samuel Chapaval - A00398858 - `java`
 Manuel Cardona - A00399980 - `python`
 
 David Artunduaga - A00396342 - `javascript`
+
+## Running container
+
+``` powershell
+$ docker build -t taller-git .
+$ docker run taller-git
+```
